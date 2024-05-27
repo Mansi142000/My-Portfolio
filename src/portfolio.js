@@ -247,7 +247,7 @@ const bigProjects = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "My Inbox is open for all.",
+    "Reach out to me at:",
   number: "+1 8575447814",
   email_address: "negi.ma@northeastern.edu"
 };
